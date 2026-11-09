@@ -1,6 +1,6 @@
 # Mine projekter 👋
 
-Jeg bygger apps og værktøjer fra København: mentalisme-rekvisitter, spil, Minecraft-værktøjer og lidt hverdagsnyttigt. Mest PWA'er i vanilla JS og React, plus lidt SwiftUI og Rust.
+Jeg bygger apps og værktøjer, i et bredt omfang: mentalisme-rekvisitter, spil, Minecraft-værktøjer og lidt hverdagsnyttigt. Mest PWA'er i vanilla JS og React, plus lidt SwiftUI og Rust.
 
 ## 🎩 Mentalisme og magi
 Apps der ser helt almindelige ud for tilskueren, men har en hemmelig effekt.
