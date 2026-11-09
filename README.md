@@ -1,4 +1,4 @@
-# Hej, jeg er Thyxo 👋
+# Mine projekter 👋
 
 Jeg bygger apps og værktøjer fra København: mentalisme-rekvisitter, spil, Minecraft-værktøjer og lidt hverdagsnyttigt. Mest PWA'er i vanilla JS og React, plus lidt SwiftUI og Rust.
 
